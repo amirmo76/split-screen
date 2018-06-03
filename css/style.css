@@ -79,28 +79,8 @@ body {
     position: relative;
 }
 
-/*
-.btn-outline-white::after {
-content: "";
-display: inline-block;
-width: 100%;
-height: 100%;
-position: absolute;
-top: -3px;
-left: -3px;
-z-index: -1;
-border: 3px white solid;
-transition: all .5s;
-}
-
-.btn-outline-white:hover::after {
-transform: scaleX(1.1);
-background-color: #fff;
-}
-*/
-
 .btn:hover {
-    padding: 7px 45px;
+    padding: 7px 40px;
 }
 
 .btn-outline-white {
